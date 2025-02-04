@@ -1,1 +1,3 @@
 *.doc
+.idea
+.new.py
